@@ -1,0 +1,27 @@
+[
+{
+"albURL": "https://usalvwsunmaster.infor.com:29090",
+"AuthURL": "https://usalvwsunmaster.infor.com:29090/authorizationserver",
+"gatewayURL": "https://lwsemccup8.execute-api.us-east-1.amazonaws.com/prod",
+"gatewayURLDS": "https://u5uxfo3pug.execute-api.us-east-1.amazonaws.com/prod",
+"accesskey": "LtujrsJ4Y5lYziFqS-pq",
+"secretkey": "-GId8gb6nJRKmxBRsRRa",
+"sessiontoken": "FQoDYXdzECcaDKWlASQguk0NKJt/qCL2AbrJvmoXyKXgQdoiR20PQoyMboYai8Z96zcVuI1LwNXssNTbnikiXrEF5PT6XEjSdl3KuGx/Nyi7OYaF9ya3pwSRmZ7mLKStjMHXkyG6klpqIzQyvUcTJCTALu2WtOFUM8S3HVGQq0tfv7/9U7J+eThfeyMb1W5pGznz73pGvW+hR8VpE4qBRbkIAh3UP49il56tTLZMOs4UvZrHU9cMd1DnhXt3O7ojEzE7TwpsIe7inSSgo1YjSRbpMxjnJEX9B8xC6GG2J4GCrgDlWMAwz/R1BoUVrltmo9ORAmQinaBWyp1a5YQ8DqvEJA8oRxjj6t/D9HXsEijG2Z3VBQ==",
+"clientID": "e21760ea734a1eed055d462d91ce8352",
+"clientSecret": "54ad6f5d77bbced46c7d9255f9e50679",
+"accessToken": "eyJhbGciOiJSUzUxMiIsImtpZCI6ImI4YTUifQ.eyJqdGkiOiJmTUI4eDcwSHdMTzk2WElqdm1JWGdRIiwiaWF0IjoxNTI0MTE1ODEwLCJuYmYiOjE1MjQxMTU4MTAsImlzcyI6Imh0dHBzOi8vdXNhbHZ3c3VubWFzdGVyLmluZm9yLmNvbToyOTA5MCIsImV4cCI6MTUyNDExNjQxMCwiY2xpZW50aWQiOiJlMjE3NjBlYTczNGExZWVkMDU1ZDQ2MmQ5MWNlODM1MiIsImF1dGhvcml6YXRpb24iOnsic2Vzc2lvbnN2YyI6eyJwZXJtaXNzaW9ucyI6WyJjbGVhbnVwIiwiY2hlY2siLCJ3cml0ZSJdfSwic3RzY29uZmlnc3ZjIjp7InBlcm1pc3Npb25zIjpbInJlYWRzdHNmb3JydW50aW1lIl19LCJ0ZW5hbnRjb25maWdzdmMiOnsicGVybWlzc2lvbnMiOlsicmVhZCIsIndyaXRlIl19fSwiY2xpZW50dHlwZSI6InN0c3J1bnRpbWVzdmMiLCJ0b2tlbnNrZXd0aW1lIjo2MH0.fdISp1Y5OgG1zoQYxq-KH1RkN8OT9fM0Bo7BJmZT48VL1w6856VrH1dKWHDdSCI26rIofW6gggmtbhGSEDSNxhx4SpKX8ml5V8lgnUSXIKONGs6XBhc8DXZo1BJQ-BZgUCGkybSwZWKdtBlH037K0J1hPpMpMgnjf0GO66y46xsBOuy7zUznRw4oVbK5Ed3Xqby_bS7_xeqdMYgzswJPCastFriYOiX-fF2P4LSKqj7t4CDc2j1ZHDP9SCr0pzHLO9LBMOWkWZmAdXtrCzW__T7JTJ9KQbaXGWBErueNt3OixaxoggVphFoAbzouVPzR4WcycuRj63Vg8aRgN8fs_g",
+"clientId": "a28767ceb53cd152d2f56550b532f1d4",
+"TenantConfigURL": "https://mingle-ci01-alb.mingle.awsdev.infor.com/tenantconfigsvc",
+"tenant": "infor",
+"AuthContext": "ContextVal",
+"userid": "Sai",
+"clientIp": "10.0.0.1",
+"startIndex": 0,
+"count": 1,
+"clientType": "stsruntimesvc",
+"adminUrl": "https://mingle-ci01-alb.mingle.awsdev.infor.com/mesconfigsvc",
+"indexUrl": "https://mingle-ci01-alb.mingle.awsdev.infor.com/mesindexsvc",
+"searchUrl": "https://mingle-ci01-alb.mingle.awsdev.infor.com/messearchsvc",
+"serviceType": "stsruntimesvc"
+}
+]
