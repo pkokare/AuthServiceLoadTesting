@@ -118,7 +118,7 @@ props.put(&quot;serviceType&quot;,serviceType);
           <stringProp name="LoopController.loops">${__P(Loop,1)}</stringProp>
         </elementProp>
         <stringProp name="ThreadGroup.num_threads">${__P(Threads,10)}</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">${__P(Ramp,1)}</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">${__P(Ramp,10)}</stringProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
         <stringProp name="ThreadGroup.duration"></stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
