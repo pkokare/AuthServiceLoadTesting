@@ -1,0 +1,19 @@
+execution:
+- iterations: 1
+  concurrency: 1
+  scenario: with_script
+
+scenarios:
+  with_script:
+    script: Authorization_Service.jmx
+    modifications:
+      enable:  
+      - External-Datafile
+      disable:  
+      - AuthService_ThreadGroup
+    
+  
+ 
+
+
+
