@@ -15,20 +15,3 @@ scenarios:
 reporting:
 - module: final-stats
   dump-xml: stats.xml
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-reporting:
-- module: final-stats
-  dump-xml: stats.xml
